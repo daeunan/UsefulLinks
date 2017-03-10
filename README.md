@@ -7,6 +7,7 @@
 * Trello(project management): https://trello.com/
 * Study Web Fonts: http://www.beautifulcss.com/archives/431
 * Color Chart: http://htmlcolorcodes.com/color-chart/
+* Font File to Base64 Encoder: https://www.giftofspeed.com/base64-encoder/
 
 ## Java Script
 * Raphael(Vector Graphics): http://dmitrybaranovskiy.github.io/raphael/
