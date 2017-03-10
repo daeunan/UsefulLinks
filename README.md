@@ -12,6 +12,7 @@
 ## Java Script
 * Raphael(Vector Graphics): http://dmitrybaranovskiy.github.io/raphael/
 * Study RaphaelJS: http://ohgyun.github.io/raphaeljs-learning-test/learning_test.html
-### 정적 분석 도구
+
+#### 정적 분석 도구
 * Plato: https://github.com/es-analysis/plato
 * JSHint: http://jshint.com/
