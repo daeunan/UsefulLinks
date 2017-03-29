@@ -8,6 +8,7 @@
 * Study Web Fonts: http://www.beautifulcss.com/archives/431
 * Color Chart: http://htmlcolorcodes.com/color-chart/
 * Font File to Base64 Encoder: https://www.giftofspeed.com/base64-encoder/
+* 2017 Web Devloper Roadmap: https://github.com/kamranahmedse/developer-roadmap
 
 ## Java Script
 * Raphael(Vector Graphics): http://dmitrybaranovskiy.github.io/raphael/
