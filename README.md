@@ -10,10 +10,11 @@
 * Font File to Base64 Encoder: https://www.giftofspeed.com/base64-encoder/
 * 2017 Web Devloper Roadmap: https://github.com/kamranahmedse/developer-roadmap
 
-## Java Script
+## JavaScript
 * Raphael(Vector Graphics): http://dmitrybaranovskiy.github.io/raphael/
 * Study RaphaelJS: http://ohgyun.github.io/raphaeljs-learning-test/learning_test.html
 * jsPDF(HTML5 PDF Generator): https://parall.ax/products/jspdf
+* JSFiddle(Test JavaScript): https://jsfiddle.net/
 
 #### 정적 분석 도구
 * Plato: https://github.com/es-analysis/plato
