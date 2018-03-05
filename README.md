@@ -26,3 +26,4 @@
 
 ## iOS
 * iOS Support Matrix: http://iossupportmatrix.com/
+* Swift translation project for korean: http://swift.leantra.kr/
